@@ -14,6 +14,7 @@ const markets = {
 } as const;
 const years = {
   Q: [2017, 2018, 2019],
+  TU: 2020,
   RU: 2019,
   NU: 2018,
   N: 2018,
